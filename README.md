@@ -151,7 +151,7 @@ logging:
 
 <div align="center">
   <p>If you find this project useful, please consider giving it a star!</p>
-  <a href="https://github.com/yourusername/gpt2-implementation">
+  <a href="https://github.com/mldlwizard/gpt2-implementation">
     <img src="https://img.shields.io/github/stars/yourusername/gpt2-implementation.svg?style=social&label=Star" alt="GitHub stars">
   </a>
 </div>
